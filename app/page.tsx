@@ -454,7 +454,7 @@ export default function HomePage() {
 
       {/* CTA Section */}
       <section className="py-24 bg-gradient-to-r from-primary-900 via-primary-800 to-secondary-900 relative overflow-hidden">
-        <div className="absolute inset-0 bg-[url('/placeholder.svg?height=600&width=1200&text=Cleaning+Pattern')] opacity-10"></div>
+        <div className="absolute inset-0 opacity-10"></div>
 
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <Badge className="mb-8 bg-white/20 text-white border-white/30">Ready to Transform Your Space?</Badge>

@@ -61,18 +61,6 @@ export default function MethodologyPage() {
                     ))}
                   </div>
                 </div>
-
-                <div className={index % 2 === 1 ? "lg:col-start-1" : ""}>
-                  <Card className="overflow-hidden">
-                    <Image
-                      src={`/placeholder.svg?height=400&width=600&text=Step+${step.step}+${step.title.replace(" ", "+")}`}
-                      alt={step.title}
-                      width={600}
-                      height={400}
-                      className="w-full h-64 object-cover"
-                    />
-                  </Card>
-                </div>
               </div>
             ))}
           </div>

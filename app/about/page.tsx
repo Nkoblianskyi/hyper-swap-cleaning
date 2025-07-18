@@ -33,7 +33,7 @@ export default function AboutPage() {
             </div>
             <div className="relative">
               <Image
-                src="/placeholder.svg?height=500&width=600&text=About+Hyper+Swap+Team"
+                src="/b8e9ed485148187a27c4fc9693c57cb4.jpg"
                 alt="Hyper Swap cleaning team"
                 width={600}
                 height={500}
@@ -59,7 +59,6 @@ export default function AboutPage() {
               advantages.map((advantage, index) => (
                 <Card key={index} className="text-center p-6 hover:shadow-lg transition-shadow">
                   <CardContent className="pt-6">
-                    <div className="text-4xl mb-4">{advantage.icon}</div>
                     <h3 className="text-xl font-semibold mb-3">{advantage.title}</h3>
                     <p className="text-gray-600">{advantage.description}</p>
                   </CardContent>
