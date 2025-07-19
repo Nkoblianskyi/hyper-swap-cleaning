@@ -59,7 +59,7 @@ export function Header() {
               </div>
               <div>
                 <span className="text-3xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
-                  Hyper Swap
+                  HyperLend
                 </span>
                 <div className="text-xs text-gray-500 font-medium">Professional Cleaning Services</div>
               </div>

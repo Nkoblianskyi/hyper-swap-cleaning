@@ -128,7 +128,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <Badge className="mb-6 bg-primary-100 text-primary-700 border-primary-200">About Hyper Swap</Badge>
+              <Badge className="mb-6 bg-primary-100 text-primary-700 border-primary-200">About HyperLend</Badge>
 
               <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-8">
                 Redefining Cleaning Standards with
@@ -136,7 +136,7 @@ export default function HomePage() {
               </h2>
 
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                Founded on the principle that every space deserves exceptional care, Hyper Swap has grown from a local
+                Founded on the principle that every space deserves exceptional care, HyperLend has grown from a local
                 cleaning service to a trusted partner for businesses and families throughout the metropolitan area. Our
                 commitment to quality, sustainability, and customer satisfaction drives everything we do.
               </p>
@@ -349,7 +349,7 @@ export default function HomePage() {
       <section className="py-24 bg-gradient-to-br from-primary-50 to-secondary-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <Badge className="mb-6 bg-primary-100 text-primary-700 border-primary-200">Why Choose Hyper Swap</Badge>
+            <Badge className="mb-6 bg-primary-100 text-primary-700 border-primary-200">Why Choose HyperLend</Badge>
 
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-8">
               The Advantages That Set Us
@@ -410,7 +410,7 @@ export default function HomePage() {
 
             <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
               Don't just take our word for it. Here's what our satisfied clients have to say about their experience with
-              Hyper Swap's professional cleaning services.
+              HyperLend's professional cleaning services.
             </p>
           </div>
 
@@ -460,12 +460,12 @@ export default function HomePage() {
           <Badge className="mb-8 bg-white/20 text-white border-white/30">Ready to Transform Your Space?</Badge>
 
           <h2 className="text-4xl md:text-6xl font-bold text-white mb-8">
-            Experience the Hyper Swap
+            Experience the HyperLend
             <span className="block text-secondary-300">Difference Today</span>
           </h2>
 
           <p className="text-xl text-white/90 mb-12 max-w-3xl mx-auto leading-relaxed">
-            Join hundreds of satisfied clients who trust Hyper Swap for their cleaning needs. Get your free,
+            Join hundreds of satisfied clients who trust HyperLend for their cleaning needs. Get your free,
             no-obligation quote today and discover why we're the preferred choice for professional cleaning services.
           </p>
 

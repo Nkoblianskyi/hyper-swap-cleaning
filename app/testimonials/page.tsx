@@ -16,7 +16,7 @@ export default function TestimonialsPage() {
           <Badge className="mb-6 bg-secondary-100 text-secondary-700 border-secondary-200">Client Reviews</Badge>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">What Our Clients Say</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Read authentic reviews from our satisfied clients who have experienced the Hyper Swap difference in
+            Read authentic reviews from our satisfied clients who have experienced the HyperLend difference in
             professional cleaning services.
           </p>
         </div>

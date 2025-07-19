@@ -7,7 +7,7 @@ import { Shield, Award, Zap } from "lucide-react"
 
 export default function Hero() {
   const companyInfo = {
-    name: "Hyper Swap",
+    name: "HyperLend",
     tagline: "Professional Cleaning Excellence",
     description:
       "Transform your space with our expert cleaning services. We combine cutting-edge techniques, eco-friendly products, and unmatched attention to detail to deliver exceptional results.",

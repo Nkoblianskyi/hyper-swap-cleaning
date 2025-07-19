@@ -7,7 +7,7 @@ import { CookieBanner } from "@/components/cookie-banner"
 const inter = Arvo({ subsets: ["latin"], weight: "400" })
 
 export const metadata: Metadata = {
-  title: "Hyper Swap - Professional Cleaning Services",
+  title: "HyperLend - Professional Cleaning Services",
   description:
     "Professional cleaning services for offices, homes, apartments, and furniture. Post-renovation cleaning specialists.",
 }

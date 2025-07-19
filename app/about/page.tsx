@@ -15,7 +15,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">About Hyper Swap</h1>
+              <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">About HyperLend</h1>
               <p className="text-xl text-gray-600 mb-8">
                 We're passionate about creating clean, healthy, and beautiful spaces. With years of experience and a
                 commitment to excellence, we've become the trusted choice for professional cleaning services.
@@ -34,7 +34,7 @@ export default function AboutPage() {
             <div className="relative">
               <Image
                 src="/b8e9ed485148187a27c4fc9693c57cb4.jpg"
-                alt="Hyper Swap cleaning team"
+                alt="HyperLend cleaning team"
                 width={600}
                 height={500}
                 className="rounded-lg shadow-xl"

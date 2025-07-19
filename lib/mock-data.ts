@@ -87,7 +87,7 @@ export const services: Service[] = [
         name: "Sarah Johnson",
         rating: 5,
         comment:
-          "Hyper Swap has transformed our office environment. The team is professional, thorough, and always exceeds our expectations.",
+          "HyperLend has transformed our office environment. The team is professional, thorough, and always exceeds our expectations.",
         location: "Downtown Business District",
       },
       {
@@ -651,7 +651,7 @@ export const testimonials: Testimonial[] = [
     service: "Office Cleaning",
     rating: 5,
     comment:
-      "Hyper Swap has completely transformed our office environment. The team is incredibly professional, thorough, and consistently exceeds our expectations. Our employees have noticed the difference, and client feedback has been overwhelmingly positive.",
+      "HyperLend has completely transformed our office environment. The team is incredibly professional, thorough, and consistently exceeds our expectations. Our employees have noticed the difference, and client feedback has been overwhelmingly positive.",
     date: "2024-01-15",
     verified: true,
   },

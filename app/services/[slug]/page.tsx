@@ -84,7 +84,7 @@ export default function ServicePage({ params }: ServicePageProps) {
               <CardContent className="p-0">
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Ready to Get Started?</h3>
                 <p className="text-gray-600 mb-6">
-                  Book your {service.title.toLowerCase()} service today and experience the Hyper Swap difference. Our
+                  Book your {service.title.toLowerCase()} service today and experience the HyperLend difference. Our
                   professional team is ready to transform your space.
                 </p>
                 <div className="space-y-3">

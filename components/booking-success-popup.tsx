@@ -28,7 +28,7 @@ export function BookingSuccessPopup({ isOpen, onClose }: BookingSuccessPopupProp
 
           <div className="space-y-4">
             <p className="text-gray-600">
-              Thank you for choosing Hyper Swap! Your booking request has been submitted successfully.
+              Thank you for choosing HyperLend! Your booking request has been submitted successfully.
             </p>
             <p className="text-gray-600">
               We will contact you within 24 hours to confirm your appointment and discuss any specific requirements.

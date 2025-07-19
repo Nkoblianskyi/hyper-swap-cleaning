@@ -18,7 +18,7 @@ export function Footer() {
                 </div>
               </div>
               <div>
-                <span className="text-2xl font-bold">Hyper Swap</span>
+                <span className="text-2xl font-bold">HyperLend</span>
                 <div className="text-xs text-gray-400">Professional Cleaning</div>
               </div>
             </div>
@@ -148,7 +148,7 @@ export function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Hyper Swap Professional Cleaning Services. All rights reserved.
+              © {new Date().getFullYear()} HyperLend Professional Cleaning Services. All rights reserved.
             </div>
             <div className="flex items-center space-x-6 mt-4 md:mt-0">
               <div className="text-gray-400 text-sm">Licensed & Insured</div>
