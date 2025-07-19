@@ -35,10 +35,6 @@ export default function ServicePage({ params }: ServicePageProps) {
 
               <div className="flex items-center gap-6 mb-8">
                 <div className="flex items-center gap-2 text-lg">
-                  <DollarSign className="h-5 w-5 text-primary-600" />
-                  <span className="font-semibold">{service.price}</span>
-                </div>
-                <div className="flex items-center gap-2 text-lg">
                   <Clock className="h-5 w-5 text-secondary-600" />
                   <span className="font-semibold">{service.duration}</span>
                 </div>

@@ -38,10 +38,6 @@ export default function ServicesPage() {
 
                   <div className="flex items-center gap-4 mb-4 text-sm text-gray-500">
                     <div className="flex items-center gap-1">
-                      <DollarSign className="h-4 w-4" />
-                      <span>{service.price}</span>
-                    </div>
-                    <div className="flex items-center gap-1">
                       <Clock className="h-4 w-4" />
                       <span>{service.duration}</span>
                     </div>
